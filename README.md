@@ -1,4 +1,4 @@
-# TicTacToe_Game
+# Four_in_line_Game
 
 In your conversion, the board dimensions will be entered at the beginning of the program.For the game to be valid, both the width and the height of the playing field must be at least 4, but in order to be able to display it well on the screen, the height is not more than 20 and the width is not more than 40.
 
